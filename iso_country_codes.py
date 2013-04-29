@@ -1,19 +1,10 @@
 #!/usr/bin/env python
-
-# Copyright 2011 Karagasidis Dimitris, <dkaragasidis@gmail.com>
-# Distributed under the Simplified BSD License
-#
 # A Python dictionary of 246 official ISO 3166-1-alpha-2 code 
-# elements and the corresponding country names.
-#
-# Data source:
+# elements and the corresponding country names, as specified in:
 # http://www.iso.org/iso/english_country_names_and_code_elements
 #
-# Usage:
-#
-# from iso_country_codes import COUNTRY
-# print COUNTRY["GR"]
-#
+# Karagasidis Dimitris,
+# github.com/gatoni
 
 COUNTRY = {
 	"AF":"AFGHANISTAN",
